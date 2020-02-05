@@ -1,7 +1,7 @@
-# Sample-Graph-Python-Client
+# Sample Graph Python Client
 This is a sample Python client for Microsoft Graph. 
 
-# Generate Client
+# Generate a Client
 #### 1. Install AutoRest
     npm install -g "@autorest/autorest"
 #### 2. Clone this repo
